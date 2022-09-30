@@ -1,0 +1,113 @@
+*{
+  text-align: center;
+  
+  
+}
+
+.seconddiv{
+ 
+  position: absolute;
+  bottom: 40%;
+  left: 28%;
+
+  border-radius: 15px;
+
+  width: 600px;
+  background-color: rgba(9, 9, 34, 0.909);
+  color: rgb(226, 176, 13);
+  box-shadow: 5px 10px 5px rgba(39, 37, 37, 0.788);
+  opacity: 90%;
+}
+.newaddedcard{
+  margin: auto;
+  width: 50%;
+  border-radius: 15px;
+  height: auto;
+  width: 600px;
+  background-color: rgba(25, 26, 49, 0.932);
+  color: rgb(226, 176, 13);
+  padding: 20px;
+  margin-top: 50px;
+  box-shadow: 5px 10px 5px rgba(39, 37, 37, 0.788);
+}
+.displaycard{
+  font-size: 2.5rem;
+
+}
+.deletbtn{
+  position: relative;
+  left: 250px;
+  height: 30px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: rgb(150, 140, 127);
+  box-shadow: 5px 10px 5px rgba(39, 37, 37, 0.788);
+ 
+}
+.deletbtn2{
+  position: relative;
+  cursor: pointer;
+  height: 30px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: rgb(150, 140, 127);
+  box-shadow: 5px 10px 5px rgba(39, 37, 37, 0.788);
+ 
+}
+
+.maindivimage{
+  position: relative;
+  height: 600px;
+  width: 100%;
+  opacity: 90%;
+}
+.showbtn{
+  height: 40px;
+  width: 120px;
+  border-radius: 15px;
+  background-color: rgb(216, 187, 149);
+  box-shadow: 5px 10px 5px rgba(37, 30, 30, 0.788);
+  font: 1em sans-serif;
+  margin-top: 30px;
+}
+.formsubmit{
+  height: auto;
+  width: 600px;
+  background-color: rgba(0, 0, 0, 0.838);
+  color: rgb(206, 118, 10);
+  width: 60%;
+  padding: 30px;
+  margin: auto;
+  margin-top: 50px;
+  box-shadow: 5px 10px 5px rgba(2, 2, 2, 0.788);
+  border-radius: 10px;
+}
+.formsubmit input,select{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 7px;
+  box-sizing: border-box;
+  
+}
+.formsubmit label{
+  display: flex;
+  font-size: 1.2rem;
+  
+}
+
+.presentcard{
+  height: auto;
+  width: 600px;
+  background-color: rgba(0, 0, 0, 0.838);
+  color: rgb(206, 118, 10);
+  width: 60%;
+  padding: 30px;
+  margin: auto;
+  margin-top: 50px;
+  box-shadow: 5px 10px 5px rgba(2, 2, 2, 0.788);
+  border-radius: 10px;
+
+}
